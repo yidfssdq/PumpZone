@@ -1,0 +1,28 @@
+project_id = "isnetvpbfhcnardnaelt"
+
+[functions.get-sol-price]
+verify_jwt = false
+
+[functions.deposit-sol]
+verify_jwt = false
+
+[functions.withdraw-sol]
+verify_jwt = false
+
+[functions.auto-deposit]
+verify_jwt = false
+
+[functions.reveal-seed]
+verify_jwt = false
+
+[functions.sweep-profits]
+verify_jwt = false
+
+[functions.generate-wallet]
+verify_jwt = false
+
+[functions.casino-play]
+verify_jwt = false
+
+[functions.crash-game]
+verify_jwt = false
